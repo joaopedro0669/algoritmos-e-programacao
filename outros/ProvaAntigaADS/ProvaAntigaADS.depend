@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745330625 source:d:\users\joão pedro\onedrive\documentos\jp\codeblocksprojects\provaantigaads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

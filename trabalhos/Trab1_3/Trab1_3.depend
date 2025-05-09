@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744935522 source:d:\users\joão pedro\onedrive\documentos\jp\codeblocksprojects\trab1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1744655939 source:c:\users\alunos\downloads\trab1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

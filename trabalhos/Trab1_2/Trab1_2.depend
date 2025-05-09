@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744764060 source:d:\users\joão pedro\onedrive\documentos\jp\codeblocksprojects\trab1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

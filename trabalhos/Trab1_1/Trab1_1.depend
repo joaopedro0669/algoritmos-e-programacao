@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1744925363 source:d:\users\joão pedro\onedrive\documentos\jp\codeblocksprojects\trab1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+
+1744655664 source:c:\users\alunos\downloads\trab1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+
