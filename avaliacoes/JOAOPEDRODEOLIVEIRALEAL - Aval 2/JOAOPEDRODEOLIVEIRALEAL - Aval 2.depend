@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1748976522 source:d:\joaopedrodeoliveiraleal - aval 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<locale.h>
+
